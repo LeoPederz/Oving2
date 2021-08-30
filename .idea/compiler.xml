@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="RomanNumbers" target="15" />
+      <module name="RomanNumbers" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
